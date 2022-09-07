@@ -1,11 +1,13 @@
 {
   "stdlib": {
     "en-US": "Standard built-in objects",
+    "es": "Standard built-in objects",
     "fr": "Objets standards",
-    "de": "Standard-Objekte",
+    "ja": "Standard built-in objects",
+    "ko": "Standard built-in objects",
+    "pt-BR": "Standard built-in objects",
     "ru": "Стандартные встроенные объекты",
     "zh-CN": "JavaScript 标准库",
-    "pl": "Obiekty",
-    "ca": "Objectes estandards"
+    "zh-TW": "Standard built-in objects"
   }
 }

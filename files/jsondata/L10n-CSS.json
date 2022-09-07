@@ -1,81 +1,112 @@
 {
-  "css_ref_title": {
-    "en-US": "CSS Reference",
-    "fr": "Référence CSS",
-    "de": "CSS Referenz",
-    "ja": "CSS リファレンス",
-    "zh-CN": "CSS 参考",
-    "es": "Referencia CSS",
-    "pl": "Dokumentacja CSS",
-    "pt-PT": "Referência CSS",
-    "ru": "CSS документация",
-    "it": "Riferimento CSS"
-  },
   "at_rules": {
     "en-US": "At-Rules",
+    "es": "At-Rules",
     "fr": "Règles @",
-    "de": "At-Regeln",
     "ja": "アット規則",
+    "ko": "At-Rules",
+    "pt-BR": "At-Rules",
     "ru": "@-правила",
-    "it": "Regole @"
-  },
-  "types": {
-    "en-US": "Data types",
-    "fr": "Types de donnée",
-    "de": "Datentypen",
-    "ja": "データ型",
-    "ru": "Типы данных",
-    "it": "Tipi di dato"
-  },
-  "missing": {
-    "en-US": "Value not found in DB!",
-    "fr": "Valeur introuvable dans la base de données",
-    "de": "Wert nicht in der DB gefunden!",
-    "ja": "DB に値が見つかりません！",
-    "ru": "Значение не найдено в базе данных!",
-    "it": "Valore non trovato all'interno della base di dati"
-  },
-  "info_in_preview_not_available": {
-    "en-US": "CSS info in preview not available",
-    "de": "CSS-Info in der Vorschau nicht verfügbar",
-    "fr": "CSS-Info n'est pas disponible en aperçu",
-    "ja": "プレビューでは CSS info は利用できません",
-    "ru": "CSS info недоступно в предпросмотре",
-    "it": "Informazione CSS non disponibile nell'anteprima"
-  },
-  "tag_selectors": {
-    "en-US": "Selectors",
-    "fr": "Sélecteur",
-    "ja": "セレクター",
-    "ru": "Селекторы",
-    "it": "Selettori"
+    "zh-CN": "At-Rules",
+    "zh-TW": "At-Rules"
   },
   "Basic Selectors": {
     "en-US": "Basic Selectors",
+    "es": "Basic Selectors",
     "fr": "Sélecteurs simples",
     "ja": "基本セレクター",
+    "ko": "Basic Selectors",
+    "pt-BR": "Basic Selectors",
     "ru": "Базовые селекторы",
-    "it": "Selettori di base"
+    "zh-CN": "Basic Selectors",
+    "zh-TW": "Basic Selectors"
   },
   "Combinators": {
     "en-US": "Combinators",
+    "es": "Combinators",
     "fr": "Combinateurs",
     "ja": "結合子",
+    "ko": "Combinators",
+    "pt-BR": "Combinators",
     "ru": "Комбинаторы",
-    "it": "Combinatori"
+    "zh-CN": "Combinators",
+    "zh-TW": "Combinators"
+  },
+  "css_ref_title": {
+    "en-US": "CSS Reference",
+    "es": "Referencia CSS",
+    "fr": "Référence CSS",
+    "ja": "CSS リファレンス",
+    "ko": "CSS Reference",
+    "pt-BR": "CSS Reference",
+    "ru": "CSS документация",
+    "zh-CN": "CSS 参考",
+    "zh-TW": "CSS Reference"
+  },
+  "info_in_preview_not_available": {
+    "en-US": "CSS info in preview not available",
+    "es": "CSS info in preview not available",
+    "fr": "CSS-Info n'est pas disponible en aperçu",
+    "ja": "プレビューでは CSS info は利用できません",
+    "ko": "CSS info in preview not available",
+    "pt-BR": "CSS info in preview not available",
+    "ru": "CSS info недоступно в предпросмотре",
+    "zh-CN": "CSS info in preview not available",
+    "zh-TW": "CSS info in preview not available"
+  },
+  "missing": {
+    "en-US": "Value not found in DB!",
+    "es": "Value not found in DB!",
+    "fr": "Valeur introuvable dans la base de données",
+    "ja": "DB に値が見つかりません！",
+    "ko": "Value not found in DB!",
+    "pt-BR": "Value not found in DB!",
+    "ru": "Значение не найдено в базе данных!",
+    "zh-CN": "Value not found in DB!",
+    "zh-TW": "Value not found in DB!"
   },
   "Pseudo-classes": {
     "en-US": "Pseudo-classes",
+    "es": "Pseudo-classes",
     "fr": "Pseudo-classes",
     "ja": "擬似クラス",
+    "ko": "Pseudo-classes",
+    "pt-BR": "Pseudo-classes",
     "ru": "Псевдоклассы",
-    "it": "Pseudo-classi"
+    "zh-CN": "Pseudo-classes",
+    "zh-TW": "Pseudo-classes"
   },
   "Pseudo-elements": {
     "en-US": "Pseudo-elements",
+    "es": "Pseudo-elements",
     "fr": "Pseudo-éléments",
     "ja": "擬似要素",
+    "ko": "Pseudo-elements",
+    "pt-BR": "Pseudo-elements",
     "ru": "Псевдоэлементы",
-    "it": "Pseudo-elementi"
+    "zh-CN": "Pseudo-elements",
+    "zh-TW": "Pseudo-elements"
+  },
+  "tag_selectors": {
+    "en-US": "Selectors",
+    "es": "Selectors",
+    "fr": "Sélecteur",
+    "ja": "セレクター",
+    "ko": "Selectors",
+    "pt-BR": "Selectors",
+    "ru": "Селекторы",
+    "zh-CN": "Selectors",
+    "zh-TW": "Selectors"
+  },
+  "types": {
+    "en-US": "Data types",
+    "es": "Data types",
+    "fr": "Types de donnée",
+    "ja": "データ型",
+    "ko": "Data types",
+    "pt-BR": "Data types",
+    "ru": "Типы данных",
+    "zh-CN": "Data types",
+    "zh-TW": "Data types"
   }
 }
